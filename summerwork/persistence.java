@@ -1,5 +1,10 @@
+/*
+ * AP CSA Prerequisite Project
+ * Persistence of a Number
+ * Finished 7/26/2024
+*/
+
 package summerwork;
-// AP CSA summer work project
 
 // import scanner package
 import java.util.Scanner;
