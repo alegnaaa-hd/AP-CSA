@@ -44,8 +44,11 @@ def NumberProcessor (num, persistence):
 
 ###################### MAIN PROGRAM ######################
 # formatting 
-line = "-------------------------------"
-bar = "           - - - - -"
+line = "-----------------------------------"
+bar = "            - - - - -"
+
+print (line)
+print ("Welcome to Persistence of a Number")
 
 # ask user for number
 print (line)

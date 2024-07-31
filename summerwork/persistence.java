@@ -17,13 +17,15 @@ public class persistence
         Scanner scan = new Scanner (System.in);
 
         // formatting variables 
-        String line = "-------------------------------";
-        String bar =  "           - - - - -";
+        String line = "-----------------------------------";
+        String bar =  "            - - - - -";
 
+        System.out.println(line);
+        System.out.println("Welcome to Persistence of a Number");
         System.out.println(line);
 
         // ask user for number 
-        System.out.println("Enter desired number: ");
+        System.out.print("Enter desired number: ");
         int userInput = scan.nextInt();
 
         System.out.println(bar);
